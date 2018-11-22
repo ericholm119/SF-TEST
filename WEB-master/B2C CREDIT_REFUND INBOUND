@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<nav>
+  <credit>
+    <domain>4</domain>
+    <webOrderNo>1600005959</webOrderNo>
+    <webCreditNo>1600000035</webCreditNo>
+    <returnOrderNo>11200009770</returnOrderNo>
+    <orderType>WEB</orderType>
+    <orderDate>2018-02-15</orderDate>
+    <currencyCode>EUR</currencyCode>
+  <payment>
+      <paymentMethod>ADN</paymentMethod>
+      <paymentMethodDescription>adyen_cc</paymentMethodDescription>
+      <transactionNo>8535187038850882</transactionNo>
+  </payment>
+  <grandTotal>10.0000</grandTotal>
+  <grandTotalExVat>8.3333333333333</grandTotalExVat>
+</credit>
+  <adjustments>
+    <adjustment name="shipping">
+    <unitPriceInclVat>0.0000</unitPriceInclVat>
+    <unitPriceExVat>0.0000</unitPriceExVat>
+  </adjustment>
+    <adjustment name="refund">
+    <unitPriceInclVat>10.0000</unitPriceInclVat>
+    <unitPriceExVat>8.3333333333333</unitPriceExVat>
+  </adjustment>
+  <adjustment name="fee">
+    <unitPriceInclVat>0.0000</unitPriceInclVat>
+    <unitPriceExVat>0</unitPriceExVat>
+  </adjustment>
+</adjustments>
+   <lines>
+      <line>
+        <itemNo>1002632</itemNo>
+        <unitPriceInclVat>369.0000</unitPriceInclVat>
+        <unitPriceExVat>369.0000</unitPriceExVat>
+        <unitVatPercent>0.0000</unitVatPercent>
+        <discountAmount>0.0000</discountAmount>
+        <lineAmount>369</lineAmount>
+        <lineAmountExVat>369</lineAmountExVat>
+        <quantity>1.0000</quantity>
+        <discountCode/>
+        <itemDescription>KILBURN II BLACK</itemDescription>
+     </line>
+    </lines>
+</nav>

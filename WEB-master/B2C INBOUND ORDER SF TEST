@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nav>
+    <order>
+        <!-- general -->
+        <webOrderNo>testsf</webOrderNo>
+        <customerID/>
+        <globalCustomerID/>
+        <domain>5</domain>
+        <orderType>WEB</orderType>
+        <orderSource/>
+        <currencyCode>USD</currencyCode>
+        <locale/>
+        <firstName>Test</firstName>
+        <lastName>Sara</lastName>
+        <email/>
+        <orderDate>2018-11-22</orderDate>
+        <orderStatus/>
+        <orderCompletedDate/>
+        <orderReturnStatus/>
+        <isGuestOrder/>
+        <!-- /general -->
+
+        <!-- amount -->
+        <totalDiscount/>
+        <taxRate/>
+        <tax/>
+        <subtotalExVat/>
+        <subtotal/>
+        <grandTotal>369.0000</grandTotal>
+        <grandTotalExVat>369</grandTotalExVat>
+        <!-- /amount -->
+
+        <!-- shipping -->
+        <shipping>
+            <location>SWE E-COM</location>
+            <shippingMethod>ddu</shippingMethod>
+            <shippingDescription>Fedex - Free</shippingDescription>
+            <carrierCode>FEDEX_SE</carriercode>
+            <carrierService>FDXIEP</carrierservice>
+            <shippingPrice>0</shippingPrice>
+            <deliveryStatus/>
+            <deliveryTime/>
+            <deliveryTimeText/>
+            <trackingID/>
+            <trackingUrl/>
+        </shipping>
+        <!-- /shipping -->
+
+        <!-- delivery -->
+        <shiptoAddress>
+            <address>
+                <name>Test Sara</name>
+                <email>test@gmail.com</email>
+                <phone>+919326614352</phone>
+                <address1>Centralplan 15</address1>
+                <address2>Stockholm</address2>
+                <zip>11140</zip>
+                <city>Stockholm</city>
+                <country>SE</country>
+                <state>SE</state>
+            </address>
+        </shiptoAddress>
+        <!-- delivery -->
+
+        <!-- billing -->
+        <billtoAddress>
+            <address>
+                <name>Test Sara</name>
+                <email>test@gmail.com</email>
+                <phone>+919326614352</phone>
+                <address1>Centralplan 15</address1>
+                <address2>Stockholm</address2>
+                <zip>11140</zip>
+                <city>Stockholm</city>
+                <country>SE</country>
+                <state>SE</state>
+            </address>
+        </billtoAddress>
+        <!-- billing -->
+
+        <!-- payment -->
+        <payment>
+            <paymentMethod>ADN</paymentMethod>
+            <paymentMethodDescription>adyen_cc</paymentMethodDescription>
+            <transactionNo>1725380346797243</transactionNo>
+            <invoiceNo/>
+            <paymentStatus/>
+            <paymentComments/>
+            <paymentAccount/>
+            <amount/>
+            <currencyCode/>
+        </payment>
+        <!-- payment -->
+
+        <!-- order item -->
+        <lines>
+            <line>
+                <itemDescription>KILBURN II BLACK</itemDescription>
+                <itemModelNo/>
+                <itemNo>1002632</itemNo>
+                <unitPriceInclVat>369.0000</unitPriceInclVat>
+                <unitPriceExVat>369.0000</unitPriceExVat>
+                <quantity>1.0000</quantity>
+                <lineAmount>369</lineAmount>
+                <lineAmountExVat>369</lineAmountExVat>
+                <lineVatAmount/>
+                <unitVatPercent>0.0000</unitVatPercent>
+                <discountAmount>0.0000</discountAmount>
+                <discountAmountExVat/>
+                <discountAmountTaxRate/>
+                <discountAmountTaxAmount/>
+                <discountLineitemTax/>
+                <discountCampaignID/>
+                <discountCodes>
+                    <discountCode>shuu</discountCode>
+                </discountCodes>
+                <isItemPreorder/>
+            </line>
+        </lines>
+        <!-- /order item -->
+    </order>
+</nav>

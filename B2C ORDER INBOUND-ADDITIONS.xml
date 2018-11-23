@@ -35,8 +35,8 @@
             <location>SWE E-COM</location>
             <shippingMethod>ddp</shippingMethod>
             <shippingDescription>Fedex - Free</shippingDescription>
-            <carrierCode>FEDEX_SE</carriercode>
-            <carrierService>FDXIEP</carrierservice>
+            <carrierCode>FEDEX_SE</carrierCode>
+            <carrierService>FDXIEP</carrierService>
             <shippingPrice>0</shippingPrice>
             <deliveryStatus/>
             <deliveryTime/>

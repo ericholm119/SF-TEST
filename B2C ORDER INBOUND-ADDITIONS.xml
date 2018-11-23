@@ -2,18 +2,18 @@
 <nav>
     <order>
         <!-- general -->
-        <webOrderNo>11200009770</webOrderNo>
+        <webOrderNo>Saratest</webOrderNo>
         <customerID/>
         <globalCustomerID/>
         <domain>5</domain>
         <orderType>WEB</orderType>
         <orderSource/>
-        <currencyCode>USD</currencyCode>
+        <currencyCode>SEK</currencyCode>
         <locale/>
-        <firstName>Rohan</firstName>
-        <lastName>Patel</lastName>
+        <firstName>Sara</firstName>
+        <lastName>Test</lastName>
         <email/>
-        <orderDate>2018-09-27</orderDate>
+        <orderDate>2018-11-23</orderDate>
         <orderStatus/>
         <orderCompletedDate/>
         <orderReturnStatus/>
@@ -26,14 +26,14 @@
         <tax/>
         <subtotalExVat/>
         <subtotal/>
-        <grandTotal>369.0000</grandTotal>
-        <grandTotalExVat>369</grandTotalExVat>
+        <grandTotal>599.0000</grandTotal>
+        <grandTotalExVat>499.20</grandTotalExVat>
         <!-- /amount -->
 
         <!-- shipping -->
         <shipping>
             <location>SWE E-COM</location>
-            <shippingMethod>ddu</shippingMethod>
+            <shippingMethod>ddp</shippingMethod>
             <shippingDescription>Fedex - Free</shippingDescription>
             <carrierCode>FEDEX_SE</carriercode>
             <carrierService>FDXIEP</carrierservice>
@@ -49,15 +49,15 @@
         <!-- delivery -->
         <shiptoAddress>
             <address>
-                <name>Rohan Patel</name>
-                <email>lolrohancool@gmail.com</email>
+                <name>Sara Test</name>
+                <email>hej@gmail.com</email>
                 <phone>+919326614352</phone>
-                <address1>301, 3rd floor, Sea Garden View Bld</address1>
-                <address2>Santacruz, Near Rajesh Khana garden</address2>
-                <zip>400054</zip>
-                <city>Mumbai</city>
-                <country>IN</country>
-                <state>MH</state>
+                <address1>Solvägen 1</address1>
+                <address2>Solvägen 1</address2>
+                <zip>11010</zip>
+                <city>Stockholm</city>
+                <country>SE</country>
+                <state>SE</state>
             </address>
         </shiptoAddress>
         <!-- delivery -->
@@ -65,15 +65,15 @@
         <!-- billing -->
         <billtoAddress>
             <address>
-                <name>Rohan Patel</name>
-                <email>lolrohancool@gmail.com</email>
+                <name>Sara Test</name>
+                <email>hej@gmail.com</email>
                 <phone>+919326614352</phone>
-                <address1>301, 3rd floor, Sea Garden View Bld</address1>
-                <address2>Santacruz, Near Rajesh Khana garden</address2>
-                <zip>400054</zip>
-                <city>Mumbai</city>
-                <country>IN</country>
-                <state>MH</state>
+                <address1>Solvägen 1</address1>
+                <address2>Solvägen 1</address2>
+                <zip>11010</zip>
+                <city>Stockholm</city>
+                <country>SE</country>
+                <state>SE</state>
             </address>
         </billtoAddress>
         <!-- billing -->
@@ -82,7 +82,7 @@
         <payment>
             <paymentMethod>ADN</paymentMethod>
             <paymentMethodDescription>adyen_cc</paymentMethodDescription>
-            <transactionNo>1725380346797243</transactionNo>
+            <transactionNo>17XXXXXXXXX</transactionNo>
             <invoiceNo/>
             <paymentStatus/>
             <paymentComments/>
@@ -95,16 +95,16 @@
         <!-- order item -->
         <lines>
             <line>
-                <itemDescription>KILBURN II BLACK</itemDescription>
+                <itemDescription>Stanmore II Voice Black with Alexa</itemDescription>
                 <itemModelNo/>
-                <itemNo>1002632</itemNo>
-                <unitPriceInclVat>369.0000</unitPriceInclVat>
-                <unitPriceExVat>369.0000</unitPriceExVat>
+                <itemNo>1001910</itemNo>
+                <unitPriceInclVat>599.0000</unitPriceInclVat>
+                <unitPriceExVat>499.2000</unitPriceExVat>
                 <quantity>1.0000</quantity>
-                <lineAmount>369</lineAmount>
-                <lineAmountExVat>369</lineAmountExVat>
+                <lineAmount>599</lineAmount>
+                <lineAmountExVat>499.20</lineAmountExVat>
                 <lineVatAmount/>
-                <unitVatPercent>0.0000</unitVatPercent>
+                <unitVatPercent>25.0000</unitVatPercent>
                 <discountAmount>0.0000</discountAmount>
                 <discountAmountExVat/>
                 <discountAmountTaxRate/>
@@ -112,7 +112,7 @@
                 <discountLineitemTax/>
                 <discountCampaignID/>
                 <discountCodes>
-                    <discountCode>shuu</discountCode>
+                    <discountCode></discountCode>
                 </discountCodes>
                 <isItemPreorder/>
             </line>

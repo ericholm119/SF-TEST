@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nav>
+  <order>
+    <domain>5</domain>
+    <webOrderNo>00000001</webOrderNo>
+    <orderType>WEB</orderType>
+    <orderDate>2018-11-26</orderDate>
+    <currencyCode>SEK</currencyCode>
+    <firstName>Peter</firstName>
+    <lastName>Wiklund</lastName>
+    <payment>
+      <paymentMethod/>
+      <paymentMethodDescription>CYBERSOURCE_BML</paymentMethodDescription>
+      <transactionNo/>
+    </payment>
+    <shipping>
+      <shippingPrice>50.00</shippingPrice>
+      <location>SWE E-COM</location>
+      <shippingDescription/>
+      <shippingMethod>test</shippingMethod>
+      <carrierCode>FEDEX_SE</carrierCode>
+      <carrierService>FDXIEP</carrierService>
+    </shipping>
+    <shiptoAddress>
+      <address>
+        <phone/>
+        <email/>
+        <name>Peter Wiklund</name>
+        <zip>11338</zip>
+        <address1>Tomtebogatan 27</address1>
+        <address2/>
+        <state/>
+        <country>IT</country>
+        <city>Stockholm</city>
+      </address>
+    </shiptoAddress>
+    <billtoAddress>
+      <address>
+        <phone/>
+        <email/>
+        <name>Peter Wiklund</name>
+        <zip>11338</zip>
+        <address1>Tomtebogatan 27</address1>
+        <address2/>
+        <state/>
+        <country>IT</country>
+        <city>Stockholm</city>
+      </address>
+    </billtoAddress>
+    <grandTotal>849.00</grandTotal>
+    <grandTotalExVat/>
+    <lines>
+      <line>
+        <itemNo>1001816</itemNo>
+        <unitPriceInclVat>799</unitPriceInclVat>
+        <unitPriceExVat>799</unitPriceExVat>
+        <unitVatPercent>0.0</unitVatPercent>
+        <quantity>1.0</quantity>
+        <discountAmount>0.0000</discountAmount>
+        <discountCode/>
+        <lineAmount>799.00</lineAmount>
+        <lineAmountExVat/>
+        <itemDescription>Jakan Slate Blue</itemDescription>
+      </line>
+    </lines>
+  </order>
+</nav>

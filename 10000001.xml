@@ -2,29 +2,29 @@
 <nav>
   <order>
     <domain>5</domain>
-    <webOrderNo>00000001</webOrderNo>
+    <webOrderNo>10000001</webOrderNo>
     <orderType>WEB</orderType>
     <orderDate>2018-11-26</orderDate>
     <currencyCode>SEK</currencyCode>
     <firstName>Peter</firstName>
     <lastName>Wiklund</lastName>
     <payment>
-      <paymentMethod/>
+      <paymentMethod/>ADN</paymentMethod>
       <paymentMethodDescription>CYBERSOURCE_BML</paymentMethodDescription>
-      <transactionNo/>
+      <transactionNo/>1111111</transactionNo>
     </payment>
     <shipping>
       <shippingPrice>50.00</shippingPrice>
       <location>SWE E-COM</location>
       <shippingDescription/>
-      <shippingMethod>test</shippingMethod>
+      <shippingMethod>DDU</shippingMethod>
       <carrierCode>FEDEX_SE</carrierCode>
       <carrierService>FDXIEP</carrierService>
     </shipping>
     <shiptoAddress>
       <address>
-        <phone/>
-        <email/>
+        <phone/>070659078</phone>
+        <email/>eric@gmail.com</email>
         <name>Peter Wiklund</name>
         <zip>11338</zip>
         <address1>Tomtebogatan 27</address1>
@@ -53,8 +53,8 @@
       <line>
         <itemNo>1001816</itemNo>
         <unitPriceInclVat>799</unitPriceInclVat>
-        <unitPriceExVat>799</unitPriceExVat>
-        <unitVatPercent>0.0</unitVatPercent>
+        <unitPriceExVat>662.000</unitPriceExVat>
+        <unitVatPercent>22</unitVatPercent>
         <quantity>1.0</quantity>
         <discountAmount>0.0000</discountAmount>
         <discountCode/>

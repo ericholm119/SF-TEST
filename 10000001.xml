@@ -9,7 +9,7 @@
     <firstName>Peter</firstName>
     <lastName>Wiklund</lastName>
     <payment>
-      <paymentMethod/>ADN</paymentMethod>
+      <paymentMethod>ADN</paymentMethod>
       <paymentMethodDescription>CYBERSOURCE_BML</paymentMethodDescription>
       <transactionNo/>1111111</transactionNo>
     </payment>
